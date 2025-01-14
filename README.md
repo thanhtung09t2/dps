@@ -6,5 +6,6 @@ number of folds (2^LEVELS) by maximizing the correntropy between the folds
 and can be used as an alternative for cross-validation. The procedure is 
 deterministic, so unlike cross-validation it does not need to be repeated.
 
-REFERENCE
+REFERENCE:
+
 Budka, M. and Gabrys, B., 2012. Density Preserving Sampling: Robust and Efficient Alternative to Cross-validation for Error Estimation. IEEE Transactions on Neural Networks and Learning Systems, DOI: 10.1109/TNNLS.2012.2222925. 
